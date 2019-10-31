@@ -1,0 +1,39 @@
+body{
+    font-size: 2vw;
+    background: radial-gradient(purple,white);
+    background-repeat: no-repeat;
+    font-weight: 500px;
+    font-family: sans-serif;
+}
+#items{
+    align-content: center;
+    padding:20px;
+    width:80%;
+    background-color: white;
+}
+#carttable{
+    padding:30px;
+    width:50%;
+    background-color: white;
+}
+
+td{
+    align-content: center;
+}
+th{
+    background-color: purple;
+    color:white;
+}
+button{
+    width:9vw;
+    height:5vw;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 10px 10px;
+}
+#cartsec{
+ padding:2vw;   
+}
+.foot{
+    padding: 20px;
+}
